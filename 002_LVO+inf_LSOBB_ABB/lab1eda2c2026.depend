@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1790600336 source:c:\users\administrator\desktop\lab1eda2c2026\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<malloc.h>
+	<ctype.h>
+
