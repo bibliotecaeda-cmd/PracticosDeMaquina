@@ -1,0 +1,61 @@
+# 📚 Base de Datos Práctica - Estructura de Datos y Algoritmos (EDA)
+
+¡Bienvenido/a a este repositorio! Este espacio fue creado como una **guía y base de datos colaborativa para estudiantes**, diseñada para reunir, organizar y compartir resoluciones de los trabajos prácticos de máquina de la materia **Estructura de Datos y Algoritmos**.
+
+El objetivo principal es ofrecer una referencia para que puedas orientarte cuando te trabes con algúna estructura solicitada, analizar diferentes enfoques y comprender cómo implementar en código los conceptos teóricos de la asignatura.
+
+---
+
+## 🎯 Propósito del Repositorio
+
+- 📖 **Aclarar conceptos:** Ver ejemplos de código funcional para destrabar dudas de implementación.
+- 💡 **Diversidad de soluciones:** En la programación nunca hay un solo camino. Este repo es una muestra de resoluciones posibles, no una "única verdad".
+- 🤝 **Ayuda estudiantil:** Crear una red de apoyo para que cursar la materia sea más ameno y constructivo.
+
+---
+
+## ⚠️ Nota y Filosofía de Uso (Copia vs. Aprendizaje)
+
+> **"El objetivo no es copiar, sino comprender."**
+
+Antes de usar este código, ten en cuenta lo siguiente:
+
+1. **No copies y pegues a ciegas:** Copiar el código tal cual no te ayudará a la hora de rendir los exámenes parciales, finales o evaluaciones individuales.
+2. **Usa este repo como último recurso:** Intenta resolver los prácticos de maquina por tu cuenta primero. Si te quedas atascado/a, revisa las soluciones, analiza la lógica e intenta rehacerla con tu propia impronta.
+3. **Explora alternativas:** Las implementaciones aquí presentadas corresponden a una forma particular de resolver el problema. Se alienta totalmente a buscar estructuras, métodos u optimizaciones diferentes.
+
+---
+
+## 📂 Estructura del Repositorio
+
+El repositorio está organizado por practicos de maquina y su respectivo enunciado:
+
+.
+├── 001_RAC-RS-RAL/
+│   ├── ARCHIVOS/
+├── 001_ENUNCIADO.PDF
+│
+└──
+
+
+🛠️ Lenguajes y Herramientas
+Las soluciones están desarrolladas utilizando las tecnologías requeridas por la cátedra:
+
+Lenguajes: C
+
+Entorno / Compilador recomendados: CodeBlocks
+
+🤝 ¿Quieres contribuir?
+Si tienes una solución diferente para algún practico de maquina, encontraste un error en el código o quieres agregar prácticos de maquina que faltan, ¡las contribuciones son super bienvenidas!
+
+Haz un Fork de este repositorio.
+
+Crea una rama con tu contribución (git checkout -b feature/nueva-solucion).
+
+Haz Commit de tus cambios (git commit -m 'Añade resolución alternativa TP2').
+
+Haz Push a la rama (git push origin feature/nueva-solucion).
+
+Abre un Pull Request.
+
+⭐ Si este material te resulta útil, ¡deja una estrella en el repositorio para que llegue a más compañeros/as!
